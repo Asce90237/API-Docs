@@ -28,12 +28,12 @@ OpenAPI 建于2023年05月25日，使用免费(目前购买功能仅为沙箱测
 
 #### 0、引入 sdk
 
-> 本站客户端SDK已发布至Maven仓库
+> 本站客户端SDK已发布至Maven中心仓库
 
 ```xml
 <dependency>
     <groupId>love.openapi</groupId>
-    <artifactId>api-sdk</artifactId>
+    <artifactId>api-client</artifactId>
     <version>0.0.2</version>
 </dependency>
 ```
